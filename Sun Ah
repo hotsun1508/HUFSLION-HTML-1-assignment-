@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>멋쟁이사자처럼에서 HTML 1 배우기</title>
+</head>
+
+<body>
+    <section>
+        <div style="text-align: left">
+            <img src="html.jpg" height="500" width="500" alt="html 이미지">
+            <h1>html이란</h1>
+        </div>
+
+        <hr>
+        <br>
+
+        <article>
+          
+            <p>
+                <mark>HTML</mark>은 <mark>Hyper Text Markup Language</mark>의 약어로 HyperText(웹 페이지에서 다른 페이지로 이동할 수 있도록 하는 것) 기능을 가진 문서를 만드는 언어입니다.<br>
+                다시 말해, 구조를 설계할 때 사용되는 언어로 hyper link 시스템을 가지고 있으며, 흔히 말하는 웹 페이지를 위한 마크업 언어라고 할 수 있습니다.             
+            </p>
+
+            <p>
+                <ins>웹 페이지(web page)</ins>는 월드 와이드 웹 상에 있는 개개의 문서를 가리킵니다.<br>
+                간단히 <ins>웹(Web)</ins>이라 부르는 경우가 많습니다.
+            </p>
+
+            <p>
+                이 문서도 역시 엄연한 웹 페이지이며, 따라서 현재 이 문서를 읽고 있다면 '웹 페이지를 보고 있다'고도 할 수 있습니다.
+                그리고 이 web 이란 용어는 인터넷과 동의어로 쓰이는 경우가 많으나 엄격히 말해 서로 다른 개념입니다.<br>
+                인터넷이란 이름은 <strong>'네트워크의 네트워크'</strong>를 구현하여 모든 컴퓨터를 하나의 통신망 안에 연결(Inter Network)하고자 하는 의도에서 이를 줄여 인터넷(Internet)이라고 처음 명명하였던데 어원을 두고 있습니다.
+            </p>
+
+        </article>
+
+        <br>
+        <hr> 
+        <br>
+
+        <article>
+
+            <p>
+                <ol>
+                    <li>mark 태그</li>
+                    <li value="1"> 
+                        텍스트를 하이라이팅하는 태그</li>
+                    <li>ins 태그</li>
+                        밑줄을 긋는 태그</li>
+                    <li>strong 태그</li> 
+                        굵은 표시로 텍스트를 강조하는 시맨틱 태그</li>
+                </ol>
+            </p>
+        </article>
+    </section>
+
+</body>
+
+<footer>
+    <p>Copyright © 2020 민선아 hotsun1508 All rights reserved.</p>
+    <address>Contact email for more information. 4923i@likelion.org</address>
+</footer>
+
+</html>
